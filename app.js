@@ -64,7 +64,7 @@ var xyz = true
 //    console.log( "1 Pao dod dado")
 //  } 
 
-var dahi= false;
+var dahi= true;
 var tomoto = false;
 var milk = false
  if ( dahi) {
