@@ -64,30 +64,49 @@ var xyz = true
 //    console.log( "1 Pao dod dado")
 //  } 
 
-var dahi= true;
-var tomoto = false;
-var milk = false
- if ( dahi) {
-   console.log( "1 pao dahi  dado" )
-  }
-else if ( tomoto) {
-console.log( "1 paoo tomoto dado bhai ")
-}
+// var dahi= false;
+//  var tomoto = false;
+// // var milk = false
+//   if ( dahi) {
+//     console.log( "1 pao dahi  dado" )
+//    }
+//  else if ( tomoto) {
+//  console.log( "1 paoo tomoto dado bhai ")
+//  }
 
-else if ( milk) {
-  console.log( " 1 pao dod dado")
+// // else if ( milk) {
+// //   console.log( " 1 pao dod dado")
+// // }
+//  else {
+//    console.log(" ak kam kar to mara putar hun to choti kar ")
+//  }
+
+// var random = math.random();
+// random =  math.round(random * 10)
+// var askedNum = prompt('write a number')
+ //asked = Number(askednum);
+//  if (askedNum === random) {
+//    console.log('you win' )
+//  } else {
+//    console.log( 'you lose')
+//  }
+var num = (2,3,5)
+ var x =  Math.round(Math.random() * 2 +1)
+//  x = Math.round(Math.random*10)
+ console.log(x)
+ 
+var abc = prompt('write a number')
+
+if (abc===x){
+  console.log("you win")
+}
+else if (abc = num ) {
+  console.log(" very close try again please")
 }
 else {
-  console.log(" ak kam kar to mara putar hun to choti kar ")
+  console.log("you lose")
 }
 
- 
-
- 
-
-
-
- 
 
 
   
