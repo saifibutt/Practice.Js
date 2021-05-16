@@ -82,32 +82,53 @@ var xyz = true
 //  }
 
 // var random = math.random();
-// random =  math.round(random * 10)
+//  random =  math.round(random * 10)
 // var askedNum = prompt('write a number')
- //asked = Number(askednum);
+//  asked = Number(askednum);
 //  if (askedNum === random) {
 //    console.log('you win' )
 //  } else {
 //    console.log( 'you lose')
 //  }
-var num = (2,3,5)
- var x =  Math.round(Math.random() * 2 +1)
-//  x = Math.round(Math.random*10)
- console.log(x)
+// var num = (2,3,5)
+//  var x =  Math.round(Math.random() * 2 +1)
+// //  x = Math.round(Math.random*10)
+//  console.log(x)
  
-var abc = prompt('write a number')
+// var abc = prompt('write a number')
 
-if (abc===x){
-  console.log("you win")
-}
-else if (abc = num ) {
-  console.log(" very close try again please")
-}
-else {
-  console.log("you lose")
-}
+// if (abc===x){
+//   console.log("you win")
+// }
+// else if (abc = num ) {
+//   console.log(" very close try again please")
+// }
+// else {
+//   console.log("you lose")}
+
+// var num = 3
+// var random = Math.random() * 5;
+// radom = Math.round ( )
+ 
+// console.log( random)
+
+ var num = 3
+ var random = Math.round (Math.random( ) * 5 +1 );
+// random = Math.round(random * 5 + 1)
+console.log(random)
+askedme = +prompt("write a number")
+ if (askedme === random) {
+   console.log( "you win mubarak ho eid mubark")
+ }else if (num === askedme){
+   console.log("good to see you")
+ }
+ else {
+   console.
+   log('you loss try again')
+ }
 
 
+ 
 
   
   
