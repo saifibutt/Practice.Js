@@ -81,54 +81,113 @@ var xyz = true
 //    console.log(" ak kam kar to mara putar hun to choti kar ")
 //  }
 
-// var random = math.random();
-//  random =  math.round(random * 10)
-// var askedNum = prompt('write a number')
-//  asked = Number(askednum);
-//  if (askedNum === random) {
-//    console.log('you win' )
-//  } else {
-//    console.log( 'you lose')
-//  }
-// var num = (2,3,5)
-//  var x =  Math.round(Math.random() * 2 +1)
-// //  x = Math.round(Math.random*10)
-//  console.log(x)
- 
-// var abc = prompt('write a number')
 
-// if (abc===x){
-//   console.log("you win")
+// var num=1
+// var random=Math.round(Math.random()*5);
+// console.log(random)
+// askedNum= +prompt("write a number")
+
+// if (askedNum===random){
+//   console.log("YOU WIN'S")
 // }
-// else if (abc = num ) {
-//   console.log(" very close try again please")
+// else if (num===askedNum){
+//   console.log("Opp's So Close Try Again Later")
 // }
 // else {
-//   console.log("you lose")}
+//   console.log("YOU LOSS")
+// }
 
-// var num = 3
-// var random = Math.random() * 5;
-// radom = Math.round ( )
- 
-// console.log( random)
 
- var num = 3
- var random = Math.round (Math.random( ) * 5 +1 );
-// random = Math.round(random * 5 + 1)
-console.log(random)
-askedme = +prompt("write a number")
- if (askedme === random) {
-   console.log( "you win mubarak ho eid mubark")
- }else if (num === askedme){
-   console.log("good to see you")
- }
- else {
-   console.
-   log('you loss try again')
- }
-
+// var num=+prompt("Enter a number")
+// console.log(num)
+// if (num % 2 === 0 ){
+//   console.log("numbrer is even")
+// }
+// else {
+//   console.log("number is odd")
+// }
 
  
 
-  
-  
+// functionss
+//  function myFunc(){
+//    console.log('hello user');
+//  }
+//   myFunc();
+//   myFunc();
+//   myFunc();
+
+
+
+//  function myFunc( num){
+//    console.log('hello user ' + num);
+//  }
+//   myFunc(5);
+//   myFunc(8);
+//   myFunc();
+
+// function add ( num1 , num2 ){
+//   return num1 + num2
+// }
+//  var ans =add(5,3)
+//  var ans2=add(ans+5)
+//  console.log(ans1)
+// //  console.log(ans2)
+ 
+// var num = 2
+// num++;
+// ++num;
+
+// console.log(num--);
+// console.log(++num);
+// console.log( --num)
+
+// var num = prompt ("Enter a number ")
+
+// if (num%2===0 ) {
+// console.log("this is number even ")
+// }
+// else{
+//   console.log("this is number odd")
+// }
+
+// var num = prompt("Type a number ")
+//  if (!isNaN(num)){
+//     if (num%2===0 ) {
+//   console.log("this is number even ")
+//   }
+//   else{
+//    console.log("this is number odd")
+//   }}5
+//  else{
+//   {
+//     console.log("this not a nuMbeer pleas types a number only")
+//   }
+//  }
+
+
+// var num = Number(prompt("write a number "))
+// if (isNaN (num)){
+//   console.log("this not a number write a number");
+// }
+// else if (num%2===0)
+// {
+//   console.log("this even");
+// }
+// else {
+//   console.log("this is odd");
+// }
+    
+// var num = Number(prompt("write a number"))
+// if (num%3===0 && num%5===0){
+//   console.log("fizzbuzz")
+// }
+// else if (num%3===0){
+// console.log("fizz");
+// }
+// else if (num%5===0){
+//   console.log("buzz"); 
+// }
+// else {
+//   console.log(num);
+// }
